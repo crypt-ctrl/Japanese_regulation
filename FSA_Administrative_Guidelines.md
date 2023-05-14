@@ -1,7 +1,6 @@
 ## 出典
-- 金融庁ウェブサイト (https://www.fsa.go.jp/common/law/guide/kaisya/16.pdf)
-- 「第三分冊：金融会社関係16 暗号資産交換業者関係 (https://www.fsa.go.jp/common/law/guide/kaisya/index.html)
-    - 本文 (https://www.fsa.go.jp/common/law/guide/kaisya/16.pdf) を加工して作成
+- 「第三分冊：金融会社関係16 暗号資産交換業者関係 (金融庁) (https://www.fsa.go.jp/common/law/guide/kaisya/index.html)
+    - 本文 (https://www.fsa.go.jp/common/law/guide/kaisya/16.pdf) を加工して作成 (2023/05/14利用)
 
 # 16．暗号資産交換業者関係
 
