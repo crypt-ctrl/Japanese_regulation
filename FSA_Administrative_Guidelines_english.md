@@ -46,6 +46,7 @@ When supervising Crypto-Asset Exchange Service Providers, in order to confirm th
 ## II-2-2-4 Responses to the Risk of Crypto-Asset Leakage
 ## II-2-2-4-1 Purpose and Significance
 When a Crypto-Asset Exchange Service Provider receives a Crypto-Asset as a deposit from a user, there is a risk that the Crypto-Asset Exchange Service Provider may not be able to return the CryptoAsset to the user due to the leakage of the Crypto-Asset due to unauthorized access, etc., and thus the user may not be protected. Therefore, even in normal times, Crypto-Asset Exchange Service Providers are required to appropriately respond to such leakage risk through the development of internal control environments (including an internal audit environment suited to the nature of business) such as separate management and IT system risk management.
+
 In fact, there have been multiple cases in which large amounts of Crypto-Assets have been leaked due to unauthorized access, etc., and thus the response to the risk of such leakage has become one of the most important issues in the management of Crypto-Asset Exchange Service Providers. When supervising Crypto-Asset Exchange Service Providers, in order to confirm whether they have been appropriately responding to the risk of the above-mentioned leakage, the supervisors shall pay attention to the following points, for example.
 
 ## II-2-2-4-2 Major Supervisory Viewpoints
@@ -102,3 +103,164 @@ In cases where a Crypto-Asset Exchange Service Provider sells the token on behal
     - (iii) Does the Crypto-Asset Exchange Service Provider conduct necessary monitoring to ensure appropriate information disclosure by the issuer? And has it established a system to allow users to easily access information disclosed by the issuer?
     - (iv) Does the Crypto-Asset Exchange Service Provider conduct necessary monitoring to ensure appropriate management of the funds procured by the issuer?
     - (v) In addition to (iii) and (iv) above, does the Crypto-Asset Exchange Service Provider conduct necessary monitoring of the issuer so that necessary measures are taken to protect users? If the issuer has not taken necessary measures to protect users, does the Crypto-Asset Exchange Service Provider make sure to take appropriate measures, such as suspending the token sales? Does the contract with the issuer provide the authority necessary to take such measures?
+
+## II-2-3 Administrative Operations
+## II-2-3-1 IT System Risk Management
+## II-2-3-1-1 Purpose and Significance
+Information technology (IT) system risk refers to the risk of loss incurred by a user or a Crypto-Asset Exchange Service Provider due to a computer system failure, malfunction, or other inadequacies, and/or the risk that a user or a Crypto-Asset Exchange Service Provide incurs a loss due to the unauthorized use of a computer. Because of the nature of their business, Crypto-Asset Exchange Service Providers often have sophisticated and complex information systems based on the Internet, and because Crypto-Assets have property value that can be electronically recorded in blockchains and transferred through networks, cyberattacks, which become increasingly sophisticated every day, pose the risk of unauthorized access to or leakage of important information. Therefore, in addition to regular risk evaluation, each Crypto-Asset Exchange Service Provider needs to grasp changes in the external environment, accidents, and incidents, and to evaluate risk in a timely manner such as by examining whether or not they affect its own systems. In particular, as external services (cloud, etc.) are often used, it is important to develop a control environment for outsourcing management. The safe and stable system operation is a major prerequisite for ensuring the reliability of the payment service system and Crypto-Asset Exchange Service Providers. It is extremely important to ensure the basic matters of system development and operation and to enhance and strengthen the overall control environment for managing IT system risk. To this end, each Crypto-Asset Exchange Service Provider needs to secure management resources, and the management team should take the initiative in such efforts as formulating IT strategies.
+
+From these viewpoints, it is extremely important for the management team of a Crypto-Asset Exchange Service Provider to show leadership, link information technologies to management strategies and thereby have “IT governance,” which is a mechanism to create corporate value through such initiatives, work properly and well.
+Reference: Summary of Issues and Practices for Dialogue on IT Governance of Financial Institutions (June 2019)
+In this regard, however, even if a Crypto-Asset Exchange Service Provider fails to respond literally as described in each of the following supervisory viewpoints, it shall not be regarded as inappropriate if it is deemed that there are no particular problems from the viewpoint of user protection in light of the scale and characteristics of such Crypto-Asset Exchange Service Provider.
+
+## II-2-3-1-2 Major Supervisory Viewpoints
+- (1) Recognition of IT system risk
+    - (i) Have officers and employees, including the representative director, fully recognized the importance of IT system risk, and formulated a basic policy for the company-wide management of IT system risk?
+    - Also, does the Crypto-Asset Exchange Service Provider review IT system risk regularly and revise the basic policy based on the results?
+    - (ii) Does the Crypto-Asset Exchange Service Provider formulate an IT system strategy as part of its management strategy, and receive approval from the Board of Directors? It is desirable that such IT system strategy includes a medium- to long-term development plan.
+    - (iii) Has the representative director recognized that prevention of an IT system failure and cybersecurity incident (hereinafter referred to as “IT system failures, etc.”) and efforts for speedy recovery on the occurrence of such IT system failures, etc. is an important issue for the management, and developed an appropriate control environment?
+    - Note: “Cybersecurity incidents” refer to instances of cybersecurity being threatened by socalled “cyberattacks”, including unauthorized intrusion, theft, modification, and destruction of data, failure or malfunction of information systems, and execution of illegal computer programs and DDoS attacks, committed via the Internet through malicious use of information communication networks and information systems.
+    - (iv) Does the Board of Directors appoint an officer who oversees and manages IT system, fully recognizing the importance of IT system risk? It is desirable that the officer in charge of IT systems should be a person who has sufficient knowledge and experience in IT systems to properly pursue the relevant operations.
+    - (v) Has the Crypto-Asset Exchange Service Provider developed a control environment in which checks and balances are carried out, such as by having the IT System Risk Management Department monitor the IT Systems Department and by separating the person in charge of development from the person in charge of operation within the IT Systems Department?
+    - (vi) Have the representative director and directors (or directors and executive officers in case where the Crypto-Asset Exchange Service Provider is a company with nominating committee, etc.) determined their specific responsibility to assume and response to take in case of crisis where an IT system failure, etc. occurs?
+    Also, do they conduct drills giving directions by themselves and ensure the effectiveness thereof?
+- (2) Control environment for managing IT system risk
+    - (i) Has the Board of Directors established the risk management environment while fully understanding that, due to highly networked computer system, if risk becomes apparent, the impact would cause chain reaction, spread widely and seriously, and adversely affect the management of the Crypto-Asset Exchange Service Provider?
+    - (ii) Has the Crypto-Asset Exchange Service Provider established the basic policy for managing IT system risk? Does the basic policy for managing the IT system risk contain the security policy (a basic policy for proper protection of information assets of an organization) and the policy on outsourced contractors?
+    - (iii) Is the Crypto-Asset Exchange Service Provider basing the details of its control environment for managing the IT system risk on criteria that allow it to judge objective levels of its details? Also, does the Crypto-Asset Exchange Service Provider revise, on a continual basis, its control environment for managing IT system risk according to identification and analysis of IT system failures, etc., results of implementation of risk management, progress of technology, etc.?
+    - Note: It is desirable that such control environment for managing IT system risk is regularly evaluated by a third party (external organization).
+- (3) Assessment of IT system risk
+    - (i) Does the IT Systems Department recognize and assess risks periodically and in a timely manner by recognizing that risks are becoming diversified due to changes in the external environment, such as seen in the examples of IT system failures, etc. induced by large-scale transactions as a result of increased user channels and effortsto enhance information networks that bring more diverse and broad-based impact? In addition, does the Department take sufficient measures against identified risks, and then assess residual risks? Does it report such measures and assessment to the Board of Directors? Does the IT system risk include the following?
+        - • Risks arising from the use of external services
+        - • Risks arising from the disclosure, provision, and connection of API
+    - (ii) Do the department in charge of users cooperate with the IT Systems Department at the time of introduction of new services and/or at the time of any change in the content and method of any service? And does the IT Systems Department evaluate relevant IT systems regardless of whether the system is newly developed or not?
+- (4) Management of information security
+    - (i) Has the Crypto-Asset Exchange Service Provider developed a policy, prepared organizational readiness, introduced internal rules, and developed an internal control environment in order to appropriately manage information assets? Also, is it making continuous efforts to improve its information security control environment through the PDCA cycle, taking notice of illegal incidents or lapses at other companies?
+    - Note: Information assets refer to information itself and the information systems that handle it, including hardware, software, networks, etc. that make up the information systems.
+    - (ii) Does the Crypto-Asset Exchange Service Provider manage information security by designating individuals responsible for it and clarifying their roles/responsibilities in efforts to maintain the confidentiality, integrity, and availability of information? Also, are the individuals responsible for information security tasked to handle the security of IT system, data, and network management?
+    - (iii) Does the Crypto-Asset Exchange Service Provider take measures to prevent unauthorized use of computer systems, unauthorized access, and intrusion by malicious computer programs such as computer viruses? Also, has the Crypto-Asset Exchange Service Provider implemented physical security measures for the locations where information assets are handled, according to the importance of the information assets?
+    - (iv) Does the Crypto-Asset Exchange Service Provider comprehensively identify, grasp and manage important information for which it should be responsible? Does the scope of important information to be identified by the Crypto-Asset Exchange Service Provider cover information and data used in the course of business operations or stored in IT systems and kept by outsourced contractors and include data, for example, as listed below?
+        - • Data stored in the areas within the IT system that are not used in ordinary operations
+        - • Data output from the IT system for analyzing system failures
+    - (v) Does the Crypto-Asset Exchange Service Provider assess importance and risks regarding important information that has been identified? Also, has it developed rules to manage information, such as those listed below, in accordance with the importance and risks of each type of information?
+        - • Rules to encrypt or mask information
+        - • Rules for utilizing information
+        - • Rules on handling data storage media, etc.
+    - (vi) Has the Crypto-Asset Exchange Service Provider introduced measures to discourage or prevent unauthorized access, unauthorized retrieval, data leakage, etc. such as those listed below, for important information?
+        - • Provision of access rights limited to the extent necessary according to the respective roles of the utilization sites (including overseas ones)
+        - • Provision of access rights limited to the extent necessary according to the authority of employees
+        - • Storage and monitoring of access logs
+        - • Introduction of mutual checking functions such as by separating the individuals in charge of development and those responsible for operations, or system administrators and system users, etc.
+        - • Separation of the production environment from the test environment for testing a system, etc.
+    - (vii) Has the Crypto-Asset Exchange Service Provider introduced management rules, such as encryption and masking, for confidential information in particular among important information? Also, has it introduced rules regarding the management of encryption programs, encryption keys, and design specifications for encryption programs, etc.?
+    - Note that “confidential information” refers to any information that may cause damage or loss to users and/or the company itself if it is disclosed or stolen, such as encryption keys, PINs, passwords, credit card information, etc.
+    - (viii) Does the Crypto-Asset Exchange Service Provider give due consideration to the necessity of holding/disposing of, restricting access to, and taking outside, confidential information, and treat such information in a stricter manner?
+    - (ix) Does the Crypto-Asset Exchange Service Provider periodically monitor its information assets to see whether they are managed properly according to management rules, etc., and review the control environment on an ongoing basis?
+    - (x) Does the Crypto-Asset Exchange Service Provider conduct security education (including securities education at outsourced contractors) to all officers and employees in order to raise awareness of information security?
+- (5) Cyber security management
+    - (i) Has the Board of Directors, etc. introduced the necessary control environment upon recognizing the importance of cybersecurity amid increasingly sophisticated and cunning cyberattacks?
+    - (ii) Has the Crypto-Asset Exchange Service Provider introduced systems to maintain cybersecurity, such as those listed below, in addition to making the organization more secure and formulating internal rules?
+        - • Monitoring systems against cyberattacks
+        - • Systems to report cyberattacks and public-relation system when attacks occur
+        - • Emergency measures by an in-house Computer Security Incident Response Team (CSIRT) and systems for early warning
+        - • Systems of information collection and sharing through information-sharing organizations, etc.
+    - (iii) Has the Crypto-Asset Exchange Service Provider introduced a multi-layered defense system against cyberattacks that combines risk-based security measures respectively for inbound perimeter control, internal network security control, and outbound perimeter control?
+        - • Security measures for inbound perimeter control (e.g. introduction of a firewall, anti-virus software, unauthorized intrusion detection system, unauthorized intrusion prevention system, etc.);
+        - • Internal measures (e.g. proper management of privileged IDs and passwords, deletion of unnecessary IDs, monitoring of execution of specific commands, securing of production systems (between servers) (packet filtering and encryption of communications), separation of networks in development environments (including test-phase environments) and usephase environments, separation of network segments according to usage purposes, etc.)
+        - • Security measures for outbound perimeter control (e.g. retrieval and analysis of communication/event logs, detecting/blocking inappropriate communication, etc.)
+    - (iv) Has the Crypto-Asset Exchange Service Provider developed a control environment wherein the Provider promptly implements the following measures to prevent damage from expanding when cyberattacks occur?
+        - • Identifying IP addresses of attackers, and blocking off attacks;
+        - • Functions to automatically decentralize accesses against DDoS attacks; and
+        - • Temporary suspension, etc. of the entire system or part thereof
+    - Also, has the Crypto-Asset Exchange Service Provider prepared procedures for follow-up investigations (forensic investigations), such as log preservation and image copy acquisition, in order to confirm the scope of impact and determine the cause?
+    - (v) Has the Crypto-Asset Exchange Service Provider clearly established and systematically implemented procedures for regularly collecting, analyzing, and responding to information on vulnerabilities as well as threat information?
+    In addition, are necessary measures introduced for vulnerabilities in the IT system, such as updating of the operating system and application of security patches, in a timely manner?
+    - (vi) With regard to cybersecurity measures, does the Crypto-Asset Exchange Service Provider assess its security levels periodically, such as by using security assessment (vulnerability assessment, source code assessment, and penetration testing, etc.) by a third party (an external organization) and make efforts to improve its security measures? Upon the occurrence of cybersecurity breaches in Japan and abroad, does the Crypto-Asset Exchange Service Provider assess the relevant risks in a timely and appropriate manner?
+    - (vii) When conducting non-face-to-face transactions using the Internet and other means of communication, has the Crypto-Asset Exchange Service Provider introduced an appropriate authentication method that matches the risks of transactions, such as the following?
+        - • Authentication methods that do not rely on fixed IDs/passwords, such as variable passwords and digital certificates
+        - • Transaction authentication through multiple channels, such as by using, for example, a device that is different from a PC or a smartphone used for transactions; and
+        - • Adoption of a trading password that is different from the login password, etc.
+    - (viii) When conducting non-face-to-face transactions using the Internet and other means of communication, has the Crypto-Asset Exchange Service Provider taken following anti-fraud measures, for example, corresponding to the business?
+        - • Interrupting communications from invalid IP addresses
+        - • Taking measures to encourage users to introduce and update security software that allows them to detect and remove viruses, etc.
+        - • Introduction of a system to detect unauthorized log-ins, abnormal transactions, etc. and promptly notify such anomalies to users; and
+        - • Displaying the last login (logoff) date and time on the screen, etc.
+    - (ix) Has the Crypto-Asset Exchange Service Provider developed contingency plans against potential cyberattacks? And does it conduct exercises and review such plans? Also, does it participate in industry-wide exercises as necessary?
+    - (x) Has the Crypto-Asset Exchange Service Provider formulated plans to train and develop personnel responsible for cybersecurity and implemented them?
+- (6) IT system planning/development/management
+    - (i) Does the Crypto-Asset Exchange Service Provider make continuous efforts to identify risks inherent in the current IT system and make investment in maintaining such efforts and eliminating risks in a planned manner?
+    - (ii) Has the Crypto-Asset Exchange Service Provider formulated rules for creating documents and programs related to design and development in accordance with the IT system development process? In the IT system design/development stage, the following items related to security should be included.
+        • Clarifying specific security requirements
+        • Taking measures to prevent any vulnerability in the system such as secure coding
+    - Also, has the Crypto-Asset Exchange Service Provider formulated rules concerning approval of the planning/development/transfer of development projects?
+    - (iii) Does the Crypto-Asset Exchange Service Provider appoint and assign a responsible person to each IT system development project and manage the project according to the development plan?
+    - (iv) Has the Crypto-Asset Exchange Service Provider formulated the rules and procedures for quality control that include the following?
+        - • Reviewing and keeping records
+        - • Formulating and evaluating the completion criteria for each process
+        - • Making the performance design sufficient and managing the IT system capacity and the upper limit of performance
+        - • Grasping the threshold limit during IT system development, etc.
+    - (v) Has the Crypto-Asset Exchange Service Provider established rules concerning IT system changes? Also, are documents related to IT system changes prepared? Are they approved by the responsible person?
+    - (vi) Has the Crypto-Asset Exchange Service Provider formulated the rules and procedures for IT system management, taking into account the following points?
+        - • Mechanism to efficiently isolate a problem at the time of detection in the monitoring setting
+        - • Unified escalation rules for monitoring
+        - • Incorporating records, approvals, and inspections into the work process
+        - • Recording and retaining in writing the implementation status of operations related to IT system management, etc.
+    - (vii) Has the Crypto-Asset Exchange Service Provider established the purpose, policy, and scope of application of IT system configuration management? Also, does it grasp the configuration in terms of the following points, and thereby confirm the effectiveness of such management?
+        - • Physical resources (hardware, networks, servers, PCs, etc.)
+        - • Logical resources (licenses, software, connection configurations, etc.)
+        - • Cloud services, outsourcing to third parties, etc.
+    - (viii) In developing IT systems, does the Crypto-Asset Exchange Service Provider work out a test plan and conduct a test in an appropriate and sufficient manner, such as by involving the departments in charge of users in it?
+    - (ix) Has the Crypto-Asset Exchange Service Provider secured personnel who are familiar with the mechanisms of the current IT system and have expertise in IT system planning, development, and operation management?
+    - Has the Crypto-Asset Exchange Service Provider formulated a specific plan for the succession of the current IT system structure and development technology and the development of human resources with expertise, and implemented them?
+- (7) IT system audit
+    - (i) Does the Internal Audit Department, which is independent from the IT Systems Department, conduct periodic IT system audits by personnel familiar with IT system matters?
+    - Note: External audits may be used instead of internal audits if it is considered more effective to introduce IT system audits by external auditors.
+    - (ii) Are the targets of IT system audits selected based on the assessed risks after the risk assessment of the entire operations?
+    - (iii) Are the results of the IT system audit reported to the Board of Directors in a proper manner? Do the audited departments receive feedback from the Audit Department and make improvements according to the audit results?
+- (8) Outsourcing management
+    - (i) Does the Crypto-Asset Exchange Service Provider, in selecting the outsourced contractors (including IT system-related subsidiaries), assess them based on selection criteria and give careful consideration?
+    - (ii) When using externalservices such as cloud services, does the Crypto-Asset Exchange Service Provider examine risks associated with the services used and take necessary measures?
+    - For example, does it implement the following measures?
+        - • Processing critical data
+        - • Grasping the storage sites and ensuring authority to audit them
+        - • Reflecting the authority to monitor, etc. in the contract
+        - • Obtaining and evaluating assurance reports, etc.
+    - (iii) Does the Crypto-Asset Exchange Service Provider, in entering an outsourcing contract with an outsourced contractor, set out in the contract the division of roles and responsibilities with the outsourced contractor, audit authority, subcontracting procedures, level of services provided, etc.? Also, does the Crypto-Asset Exchange Service Provider present to the outsourced contractor rules that its officers and employees are required to adhere to and security requirements, as well as define them in the contract, etc.?
+    - (iv) Is risk management carried out properly in outsourced IT system work (including multi-tiered outsourcing)?
+    - In particular, in cases where the Crypto-Asset Exchange Service Provider outsources its IT system work to two or more contractors, related administrative work becomes complicated and a higher level of risk management is required. In this context, has the Crypto-Asset Exchange Service Provider developed a control environment upon fully understanding such fact?
+    - In cases where IT system-related administrative work is outsourced to contractors, too, does the Crypto-Asset Exchange Service Provider properly manage the risk thereof in the same manner as outsourcing of IT system work?
+    - (v) Does the Crypto-Asset Exchange Service Provider, as an outsourcer, regularly check and monitor to confirm that outsourced work (including multi-tiered outsourcing) is carried out appropriately?
+    - Also, does the Crypto-Asset Exchange Service Provider take necessary measures not to leave everything to outsourced contractors by, for example, placing its staff at an outsourced contractor’s site to monitor the outsourced work, etc.?
+    - In addition, does the Crypto-Asset Exchange Service Provider put in place a control environment that allows the Provider, as an outsourcer, to monitor and track the status of user data being processed at outsourced contractors?
+    - (vi) Does the Crypto-Asset Exchange Service Provider audit its important outsourced contractors by its Internal Audit Department or IT system auditors, etc. and/or obtain any reports on internal control of outsourced contractors?
+    - Reports deemed as “reports on internal control of outsourced contractors” refer to, for example, the IT Committee Practical Guidelines No. 7, the “assurance reports on internal control over security, availability, processing integrity, confidentiality, and privacy of entrusted services” published by the Japanese Institute of Certified Public Accountants (JICPA), or the Audit and Assurance Practice Committee Practical Guidelines No. 86, the “assurance report on internal control of entrusted business” (JICPA).
+- (9) Contingency plan
+    - (i) Has the Crypto-Asset Exchange Service Provider formulated a contingency plan and prepared written procedures in line with the plan?
+    - In addition, has the Provider established an emergency system that includes important outsourced contractors?
+    - (ii) Is the Crypto-Asset Exchange Service Provider basing the details of its contingency plan on guides that allow it to judge objective levels of its details (such as “Manual for the Development of Contingency Plans in Financial Institutions (Plans for Measures in the Event of Emergencies)” compiled by the Center for Financial Industry Information Systems)?
+    - (iii) When formulating a contingency plan, does the Crypto-Asset Exchange Service Provider assume not only contingencies due to natural disasters but also IT system failures, etc. due to internal or external factors?
+    - Also, does the plan include sufficient risk scenarios assuming the following risks?
+        - • Cyberattack
+        - • Disaster and pandemic
+        - • IT system failure
+        - • Information leakage, etc.
+    - (iv) Does the Crypto-Asset Exchange Service Provider review assumed scenarios in its contingency plan in a timely and appropriate manner by, for example, taking into consideration case studies of IT system failures, etc. at other Crypto-Asset Exchange Service Providers and results of deliberations at the Central Disaster Management Council, etc.?
+    - (v) Does the Crypto-Asset Exchange Service Provider regularly conduct a drill based on its contingency plan?
+    - Also, has the Provider established a framework for systematically reviewing and expanding its contingency plan based on such drill results?
+    - It is desirable that drills based on the contingency plan are conducted at the company-wide level and jointly with outsourced contractors, etc.
+    - (vi) Has the Crypto-Asset Exchange Service Provider introduced off-site backup IT systems, etc. in advance for important IT systems whose failure could seriously affect business operations? And has it developed a control environment to address disasters or IT system failures, etc. so that normal business operations can be speedily brought back?
+    - Also, has the Crypto-Asset Exchange Service Provider taken measures in case of data loss, such as taking backup of data on a regular basis?
+- (10)Response to IT system failures
+    - (i) Has the Crypto-Asset Exchange Service Provider developed a control environment, upon assuming a worst-case scenario in preparation for IT system failures, etc. to take necessary measures accordingly?
+    - In addition, does it take measures to minimize the impact on users in the event of an IT system failure, etc.?
+    - (ii) Has the Crypto-Asset Exchange Service Provider clarified reporting procedures and the framework of command and supervision covering outsourced contractors in preparation for IT system failures, etc.?
+    - (iii) Upon occurrence of an IT system failure, etc. that may significantly affect its business operations, is the Crypto-Asset Exchange Service Provider prepared to promptly notify the representative director and other directors and report the greatest potential risk it poses under the worst-case scenario (for example, if there is a possibility that the failure could gravely affect users, the reporting persons should not underestimate the risk but immediately report the highest risk scenario)?
+    - In addition, is it prepared to launch a task force, have the representative director, etc. issue appropriate instructions and orders, and seek resolution of the issue in a swift manner?
+    - (iv) Has the Crypto-Asset Exchange Service Provider clearly established the support framework for IT system failures, etc. to promptly gather experts having relevant know-how and experience from the IT Systems Department, other departments, or outsourced contractors, for example, through prior registration of these experts?
+    - (v) When an IT system failure, etc. occurs, does the Crypto-Asset Exchange Service Provider disclose the details of the failure, the cause of the failure, and expected recovery time, and does it promptly take measures, such as establishing call centers and consultation desks as necessary, and asking the Association for help in responding, if it is a member of the
+    - Association, in order to properly respond to inquiries from customers?
+    - Also, does the Crypto-Asset Exchange Service Provider clarify arrangements and procedures as to how to provide relevant business departments with necessary information in preparation for IT system failures, etc.?
+    - (vi) Has the Crypto-Asset Exchange Service Provider conducted analysis of causes of IT system failures, etc., investigation about impact until recovery, corrective action, and preventive measures for recurrence based on its analysis of the underlying causes in a proper manner?
+    - Also, does it prepare an IT system failure record ledger or any other similar document, periodically analyze tendencies of factors that have led to such IT system failures, etc., and take measures according to them?
+    - (vii) Has the Crypto-Asset Exchange Service Provider established a systematic framework to minimize impacts of IT system failures, etc., such as a system to bypass the affected part?
+    - Reference: As reference materialsrelating to the IT system risk, there are, for example, “FISC Security Guidelines on Computer Systems for Banking and Related Financial Institutions” (The Center for Financial Industry Information Systems).
